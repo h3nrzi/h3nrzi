@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">👨🏻‍💻 Languages and Tools:</h3>
 
 ###
 
@@ -56,6 +56,18 @@
 
 ###
 
+<h3 align="left">📊 Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=h3nrzi&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=h3nrzi&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3nrzi&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=h3nrzi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+###
+
 <div align="left">
   <a href="rezaeig22@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -67,5 +79,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
-###
