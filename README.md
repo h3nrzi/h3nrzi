@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Hossein 👋 <br>A passionate Full Stack developer from Iran 🇮🇷</h2>
+<h2 align="center">Hi, I'm Hossein 👋 <br>A passionate web developer from Iran 🇮🇷</h2>
 
 ###
 
