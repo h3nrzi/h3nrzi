@@ -3,32 +3,16 @@
 Welcome to my GitHub! Here’s a categorized list of my projects:
 
 
-## 🔧 Back-End Projects
-- ![Nest.js](https://img.shields.io/badge/Stack-Nest.js-red) ![🔒](https://img.shields.io/badge/-🔒-black)
-- ![Express.js](https://img.shields.io/badge/Stack-Express.js-green) ![🔒](https://img.shields.io/badge/-🔒-black)
-- [![Nest.js](https://img.shields.io/badge/Nest.js-VPN--Bot-blue)](https://github.com/username/vpn-bot)
-- [![Express.js](https://img.shields.io/badge/Express.js-API--Boilerplate-orange)](https://github.com/username/api-boilerplate)
-
-
 ## 🎨 Front-End Projects
-- ![Next.js](https://img.shields.io/badge/Stack-Next.js-lightgrey) ![🔒](https://img.shields.io/badge/-🔒-black)
-- [![React](https://img.shields.io/badge/React-Resume--Builder-blue)](https://github.com/username/resume-builder)
-- [![Vue](https://img.shields.io/badge/Vue-Admin--Panel-green)](https://github.com/username/vue-admin-panel)
+- [![Vanilla-JavaScript](https://img.shields.io/badge/guess--my--number--dom--project-Vanilla--JavaScript-yellow)](https://github.com/h3nrzi/guess-my-number-dom-project)
+- [![Next.js](https://img.shields.io/badge/portfolio--nextjs-Nextjs.js-white)](https://github.com/h3nrzi/guess-my-number-dom-project)
 
+## 🔧 Back-End Projects
 
-## ⚙️ DevOps / Infrastructure
-- ![Kubernetes](https://img.shields.io/badge/Stack-Kubernetes-blue) ![🔒](https://img.shields.io/badge/-🔒-black)
-- [![Docker](https://img.shields.io/badge/Docker-Node--Template-lightblue)](https://github.com/username/docker-node-template)
-
-
-## 📊 Data / Tools
-- ![Python](https://img.shields.io/badge/Stack-Python-yellow) ![🔒](https://img.shields.io/badge/-🔒-black)
-- [![Python](https://img.shields.io/badge/Python-Forex--Calculator--Bot-blue)](https://github.com/username/forex-bot)
-
-
-## 📚 Learning & Experiments
-- [![TypeScript](https://img.shields.io/badge/TypeScript-Design--Patterns--Playground-blue)](https://github.com/username/ts-design-patterns)
-- [![Go](https://img.shields.io/badge/Go-Microservice--Practice-lightgrey)](https://github.com/username/go-microservice)
+- [![Express.js](https://img.shields.io/badge/Tour--Booking--API-Express.js-blue)](https://github.com/h3nrzi/natours-expressjs-tour-booking-api)
+- [![Express.js](https://img.shields.io/badge/Rental--Movie--API-Express.js-blue)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api)
+- [![Express.js](https://img.shields.io/badge/OTP--Workflow-Express.js-blue)](https://github.com/h3nrzi/otp-workflow-expressjs)
+- ![Nest.js](https://img.shields.io/badge/Stack-Nest.js-red) ![🔒](https://img.shields.io/badge/-🔒-black)
 
 ---
 
