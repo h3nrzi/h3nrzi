@@ -9,9 +9,9 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 
 ## 🔧 Back-End Projects
 
-- [![Express.js](https://img.shields.io/badge/Tour--Booking--API-Express.js-blue)](https://github.com/h3nrzi/natours-expressjs-tour-booking-api)
-- [![Express.js](https://img.shields.io/badge/Rental--Movie--API-Express.js-blue)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api)
-- [![Express.js](https://img.shields.io/badge/OTP--Workflow-Express.js-blue)](https://github.com/h3nrzi/otp-workflow-expressjs)
+- [![Express.js](https://img.shields.io/badge/natours--expressjs--tour--booking--api-Express.js-blue)](https://github.com/h3nrzi/natours-expressjs-tour-booking-api)
+- [![Express.js](https://img.shields.io/badge/vidly--expressjs--movie--rental--api-Express.js-blue)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api)
+- [![Express.js](https://img.shields.io/badge/otp--workflow--expressjs-Express.js-blue)](https://github.com/h3nrzi/otp-workflow-expressjs)
 - ![Nest.js](https://img.shields.io/badge/Stack-Nest.js-red) ![🔒](https://img.shields.io/badge/-🔒-black)
 
 ---
