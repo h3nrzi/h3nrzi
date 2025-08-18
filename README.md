@@ -19,8 +19,9 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 
 ## 🚀 Full-Stack Projects
 
-- [![MERN-STACK](https://img.shields.io/badge/mern--e--commerce--fullstack--template-MERN-sky)](https://github.com/h3nrzi/mern-e-commerce-fullstack-template)
-- [![MERN-STACK](https://img.shields.io/badge/auth--graphql--mern-MERN-sky)](https://github.com/h3nrzi/auth-graphql-mern)
+- [![MERN](https://img.shields.io/badge/mern--e--commerce--fullstack--template-MERN-sky)](https://github.com/h3nrzi/mern-e-commerce-fullstack-template)
+- [![MERN](https://img.shields.io/badge/auth--graphql--mern-MERN-sky)](https://github.com/h3nrzi/auth-graphql-mern)
+- [![MERN](https://img.shields.io/badge/lyrical--graphql--mern-MERN-sky)](https://github.com/h3nrzi/lyrical-graphql-mern)
 
 ---
 
