@@ -19,10 +19,7 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 
 ## 🚀 Full-Stack Projects
 
-- [![MERN](https://img.shields.io/badge/mern--e--commerce--fullstack--template-MERN-sky)](https://github.com/h3nrzi/mern-e-commerce-fullstack-template)
-- [![MERN](https://img.shields.io/badge/auth--graphql--mern-MERN-sky)](https://github.com/h3nrzi/auth-graphql-mern)
-- [![MERN](https://img.shields.io/badge/lyrical--graphql--mern-MERN-sky)](https://github.com/h3nrzi/lyrical-graphql-mern)
-- [![Next.js](https://img.shields.io/badge/onwards--foodies--nextjs-Next.js-white)](https://github.com/h3nrzi/onwards-foodies-nextjs)
+[![MERN](https://img.shields.io/badge/mern--e--commerce--fullstack--template-MERN-sky)](https://github.com/h3nrzi/mern-e-commerce-fullstack-template) [![MERN](https://img.shields.io/badge/auth--graphql--mern-MERN-sky)](https://github.com/h3nrzi/auth-graphql-mern) [![MERN](https://img.shields.io/badge/lyrical--graphql--mern-MERN-sky)](https://github.com/h3nrzi/lyrical-graphql-mern) [![Next.js](https://img.shields.io/badge/onwards--foodies--nextjs-Next.js-white)](https://github.com/h3nrzi/onwards-foodies-nextjs) [![Next.js](https://img.shields.io/badge/next--news--nextjs-Next.js-white)](https://github.com/h3nrzi/next-news-nextjs)
 
 ---
 
