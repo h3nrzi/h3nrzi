@@ -18,6 +18,7 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 - [![Express.js](https://img.shields.io/badge/vidly--expressjs--movie--rental--api-Express.js-blue)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api)
 - [![Express.js](https://img.shields.io/badge/otp--workflow--expressjs-Express.js-blue)](https://github.com/h3nrzi/otp-workflow-expressjs)
 - [![Express.js](https://img.shields.io/badge/shop--flow--expressjs--shopping--api-Express.js-blue)](https://github.com/h3nrzi/shop-flow-expressjs-shopping-api) ⭐️
+- [![Express.js](https://img.shields.io/badge/ticketing--expressjs--microservice--architecture-Express.js-blue)](https://github.com/h3nrzi/ticketing-expressjs-microservice-architecture) ⭐️
 
 ## 🚀 Full-Stack Projects
 
@@ -32,8 +33,11 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 ## 🤖 Telegram Bot Projects
 
 - [![BOT](https://img.shields.io/badge/forex--money--managment--tele--bot-Python-red)](https://github.com/h3nrzi) 🔒
-- [![BOT](https://img.shields.io/badge/forex--trader--python--tele--bot-Python-red)](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒
 - [![BOT](https://img.shields.io/badge/EngliFix--tele--bot-TypeScript-blue)](https://github.com/h3nrzi) 🔒
+
+## 📈 Forex Bot Projects
+
+- [![BOT](https://img.shields.io/badge/forex--trader--python--tele--bot-Python-red)](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒
 
 ---
 
