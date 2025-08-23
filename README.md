@@ -32,6 +32,7 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 ## 🤖 Telegram Bot Projects
 
 - [![BOT](https://img.shields.io/badge/forex--money--managment--tele--bot-Python-red)](https://github.com/h3nrzi) 🔒
+- [![BOT](https://img.shields.io/badge/forex--trader--python--tele--bot-Python-red)](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒
 - [![BOT](https://img.shields.io/badge/EngliFix--tele--bot-TypeScript-blue)](https://github.com/h3nrzi) 🔒
 
 ---
