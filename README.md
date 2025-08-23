@@ -10,7 +10,7 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 - [![React.js](https://img.shields.io/badge/game--hub--reactjs--discovery--game--webapp-React.js-blue)](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp)
 - [![Vue.js](https://img.shields.io/badge/vue--jobs--vuejs-Vue.js-green)](https://github.com/h3nrzi/vue-jobs-vuejs)
 - [![Next.js](https://img.shields.io/badge/portfolio--nextjs-Nextjs.js-white)](https://github.com/h3nrzi/guess-my-number-dom-project)
-- [![Next.js](https://img.shields.io/badge/portfolio2--nextjs-Next.js-white)](https://github.com/h3nrzi) 🔐
+- [![Next.js](https://img.shields.io/badge/portfolio2--nextjs-Next.js-white)](https://github.com/h3nrzi) 🔒
 
 ## 🔧 Back-End Projects
 
@@ -27,6 +27,10 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 - [![Next.js](https://img.shields.io/badge/next--news--nextjs-Next.js-white)](https://github.com/h3nrzi/next-news-nextjs)
 - [![Next.js](https://img.shields.io/badge/issue--tracker--nextjs-Next.js-white)](https://github.com/h3nrzi/issue-tracker-nextjs)
 - [![MERN](https://img.shields.io/badge/proshop--mern--e--commerce--webapp-MERN-sky)](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp)
+
+## 🤖 Telegram Bot Projects
+
+- [![BOT](https://img.shields.io/badge/forex--money--managment--tele--bot-Python-blue)](https://github.com/h3nrzi) 🔒
 
 ---
 
