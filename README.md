@@ -11,6 +11,7 @@ Welcome to my GitHub! Here’s a categorized list of my projects:
 - [![Vue.js](https://img.shields.io/badge/vue--jobs--vuejs-Vue.js-green)](https://github.com/h3nrzi/vue-jobs-vuejs)
 - [![Next.js](https://img.shields.io/badge/portfolio--nextjs-Nextjs.js-white)](https://github.com/h3nrzi/guess-my-number-dom-project)
 - [![Next.js](https://img.shields.io/badge/portfolio2--nextjs-Next.js-white)](https://github.com/h3nrzi) 🔒
+- [![Next.js](https://img.shields.io/badge/cv--builder--next.js-next.js-white)](https://github.com/h3nrzi) 🔒
 
 ## 🔧 Back-End Projects
 
