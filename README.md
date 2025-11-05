@@ -39,7 +39,7 @@ Here’s a quick tour of my work across different tech stacks 👇
 | [Issue Tracker](https://github.com/h3nrzi/issue-tracker-nextjs) | Next.js, Prisma, PostgreSQL | Full-stack issue tracking system |
 | [ProShop](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp) | MERN Stack | Advanced e-commerce website with admin dashboard |
 
-## 📱 Mobile Apps (React Native)
+## 📱 Mobile Apps
 
 | Project | Stack | Description |
 |----------|--------|-------------|
