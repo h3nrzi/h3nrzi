@@ -1,45 +1,63 @@
-# 👋 Hi, I'm Hossein
+# 👋 Hey there, I’m Hossein  
 
-Welcome to my GitHub! Here’s a categorized list of my projects:
+Welcome to my GitHub corner 🚀  
 
+I’m a **Full-Stack Developer** passionate about crafting clean, scalable, and well-architected applications — from **elegant front-ends** to **robust back-ends**.  
+Here’s a quick tour of my work across different tech stacks 👇
 
 ## 🎨 Front-End Projects
 
-- [![HtmlCss](https://img.shields.io/badge/moshify--cloud--hosting--landing--page-HtmlCss-orange)](https://github.com/h3nrzi/moshify-cloud-hosting-landing-page)
-- [![Vanilla-JavaScript](https://img.shields.io/badge/guess--my--number--dom--project-Vanilla--JavaScript-yellow)](https://github.com/h3nrzi/guess-my-number-dom-project)
-- [![React.js](https://img.shields.io/badge/game--hub--reactjs--discovery--game--webapp-React.js-blue)](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp) ⭐️
-- [![Vue.js](https://img.shields.io/badge/vue--jobs--vuejs-Vue.js-green)](https://github.com/h3nrzi/vue-jobs-vuejs)
-- [![Next.js](https://img.shields.io/badge/portfolio--nextjs-Nextjs.js-white)](https://github.com/h3nrzi/guess-my-number-dom-project)
-- [![Next.js](https://img.shields.io/badge/portfolio2--nextjs-Next.js-white)](https://github.com/h3nrzi) 🔒
-- [![Next.js](https://img.shields.io/badge/cv--builder--next.js-next.js-white)](https://github.com/h3nrzi) 🔒
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [Moshify Cloud Hosting Landing Page](https://github.com/h3nrzi/moshify-cloud-hosting-landing-page) | HTML / CSS | Cloud hosting landing page |
+| [Guess My Number (DOM Project)](https://github.com/h3nrzi/guess-my-number-dom-project) | Vanilla JS | Simple number guessing game |
+| [Game Hub – ReactJS Discovery Game WebApp](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp) | React.js | Game discovery web app using RAWG API |
+| [Vue Jobs](https://github.com/h3nrzi/vue-jobs-vuejs) | Vue.js | Job listing application |
+| [Portfolio #1](https://github.com/h3nrzi/guess-my-number-dom-project) | Next.js | Personal portfolio website |
+| [Portfolio #2](https://github.com/h3nrzi) 🔒 | Next.js | Personal portfolio *(Private)* |
+| [CV Builder](https://github.com/h3nrzi) 🔒 | Next.js | CV builder app *(Private)* |
 
 ## 🔧 Back-End Projects
 
-- [![Express.js](https://img.shields.io/badge/natours--expressjs--tour--booking--api-Express.js-blue)](https://github.com/h3nrzi/natours-expressjs-tour-booking-api) ⭐️
-- [![Express.js](https://img.shields.io/badge/vidly--expressjs--movie--rental--api-Express.js-blue)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api)
-- [![Express.js](https://img.shields.io/badge/otp--workflow--expressjs-Express.js-blue)](https://github.com/h3nrzi/otp-workflow-expressjs)
-- [![Express.js](https://img.shields.io/badge/shop--flow--expressjs--shopping--api-Express.js-blue)](https://github.com/h3nrzi/shop-flow-expressjs-shopping-api) ⭐️
-- [![Express.js](https://img.shields.io/badge/ticketing--expressjs--microservice--architecture-Express.js-blue)](https://github.com/h3nrzi/ticketing-expressjs-microservice-architecture) ⭐️
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [Natours (Express.js Tour Booking API)](https://github.com/h3nrzi/natours-expressjs-tour-booking-api) | Node.js, Express, MongoDB | REST API for managing tours and bookings |
+| [Vidly (Express.js Movie Rental API)](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api) | Node.js, Express, MongoDB | Movie rental service API |
+| [OTP Workflow (Express.js)](https://github.com/h3nrzi/otp-workflow-expressjs) | Node.js, Express, Twilio | OTP verification and authentication service |
+| [Shop Flow (Express.js Shopping API)](https://github.com/h3nrzi/shop-flow-expressjs-shopping-api) | Node.js, Express, MongoDB | API for product management and checkout flow |
+| [Ticketing (Express.js Microservice Architecture)](https://github.com/h3nrzi/ticketing-expressjs-microservice-architecture) | Node.js, Express, NATS, Docker, Kubernetes | Distributed ticketing system built with microservices |
 
 ## 🚀 Full-Stack Projects
 
-- [![MERN](https://img.shields.io/badge/mern--e--commerce--fullstack--template-MERN-sky)](https://github.com/h3nrzi/mern-e-commerce-fullstack-template)
-- [![MERN](https://img.shields.io/badge/auth--graphql--mern-MERN-sky)](https://github.com/h3nrzi/auth-graphql-mern)
-- [![MERN](https://img.shields.io/badge/lyrical--graphql--mern-MERN-sky)](https://github.com/h3nrzi/lyrical-graphql-mern)
-- [![Next.js](https://img.shields.io/badge/onwards--foodies--nextjs-Next.js-white)](https://github.com/h3nrzi/onwards-foodies-nextjs)
-- [![Next.js](https://img.shields.io/badge/next--news--nextjs-Next.js-white)](https://github.com/h3nrzi/next-news-nextjs)
-- [![Next.js](https://img.shields.io/badge/issue--tracker--nextjs-Next.js-white)](https://github.com/h3nrzi/issue-tracker-nextjs) ⭐️
-- [![MERN](https://img.shields.io/badge/proshop--mern--e--commerce--webapp-MERN-sky)](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp) ⭐️
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [MERN E-Commerce Template](https://github.com/h3nrzi/mern-e-commerce-fullstack-template) | MERN Stack | Base template for building e-commerce applications |
+| [Auth GraphQL (MERN)](https://github.com/h3nrzi/auth-graphql-mern) | Node.js, MongoDB, GraphQL | User authentication with GraphQL |
+| [Lyrical GraphQL (MERN)](https://github.com/h3nrzi/lyrical-graphql-mern) | Node.js, Apollo, React | Music lyric management with GraphQL |
+| [Onwards Foodies (Next.js)](https://github.com/h3nrzi/onwards-foodies-nextjs) | Next.js, Prisma, PostgreSQL | Restaurant discovery platform |
+| [Next News (Next.js)](https://github.com/h3nrzi/next-news-nextjs) | Next.js | News aggregation and article reader |
+| [Issue Tracker (Next.js)](https://github.com/h3nrzi/issue-tracker-nextjs) | Next.js, Prisma, PostgreSQL | Full-stack issue tracking system |
+| [ProShop (MERN E-Commerce WebApp)](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp) | MERN Stack | Advanced e-commerce website with admin dashboard |
+
+## 📱 Mobile Apps (React Native)
+
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [MovieFlix](https://github.com/h3nrzi/movie-flix-react-native) | React Native, Expo | Mobile app for discovering and browsing movies |
 
 ## 🤖 Telegram Bot Projects
 
-- [![BOT](https://img.shields.io/badge/forex--money--managment--tele--bot-Python-red)](https://github.com/h3nrzi) 🔒
-- [![BOT](https://img.shields.io/badge/EngliFix--tele--bot-TypeScript-blue)](https://github.com/h3nrzi) 🔒
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [Forex Money Management Bot](https://github.com/h3nrzi) 🔒 | Python (pyTelegramBotAPI) | Calculates and manages Forex risk management methods |
+| [EngliFix Telegram Bot](https://github.com/h3nrzi) 🔒 | Node.js, Telegraf.js | English learning assistant bot with ESL integration |
 
 ## 📈 Forex Bot Projects
 
-- [![BOT](https://img.shields.io/badge/forex--trader--python--tele--bot-Python-red)](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒
+| Project | Stack | Description |
+|----------|--------|-------------|
+| [Forex Trader Python FX Bot](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒 | Python, MetaTrader5 | Automated trading bot with money management strategies |
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3nrzi&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h3nrzi&theme=solarized-dark&layout=compact)
