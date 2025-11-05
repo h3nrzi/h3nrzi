@@ -45,14 +45,14 @@ Here’s a quick tour of my work across different tech stacks 👇
 |----------|--------|-------------|
 | [MovieFlix](https://github.com/h3nrzi/movie-flix-react-native) | React Native, Expo | Mobile app for discovering and browsing movies |
 
-## 🤖 Telegram Bot Projects
+## 🤖 Telegram Bots
 
 | Project | Stack | Description |
 |----------|--------|-------------|
 | [Forex Money Management Bot](https://github.com/h3nrzi) 🔒 | Python (pyTelegramBotAPI) | Calculates and manages Forex risk management methods |
 | [EngliFix Telegram Bot](https://github.com/h3nrzi) 🔒 | Node.js, Telegraf.js | English learning assistant bot with ESL integration |
 
-## 📈 Forex Bot Projects
+## 📈 Forex Bots
 
 | Project | Stack | Description |
 |----------|--------|-------------|
