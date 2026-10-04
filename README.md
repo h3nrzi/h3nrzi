@@ -1,62 +1,64 @@
-# 👋 Hey there, I’m Hossein  
+# 👋 Hey, I’m Hossein
 
-Welcome to my GitHub corner 🚀  
+I’m a **Full-Stack / Backend Developer** focused on building scalable products, service-oriented systems, and well-structured engineering workflows.
 
-I’m a **Full-Stack Developer** passionate about crafting clean, scalable, and well-architected applications — from **elegant front-ends** to **robust back-ends**.  
-Here’s a quick tour of my work across different tech stacks 👇
+My recent work is centered around **Node.js, NestJS, Next.js, system design, backend architecture, and AI-assisted product engineering**.
 
-## 🎨 Front-End Projects
+## 🚀 Current Focus
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [Moshify](https://github.com/h3nrzi/moshify-cloud-hosting-landing-page) | HTML / CSS | Cloud hosting landing page |
-| [Guess My Number](https://github.com/h3nrzi/guess-my-number-dom-project) | Vanilla JS | Simple number guessing game |
-| [Game Hub](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp) | React.js | Game discovery web app using RAWG API |
-| [Vue Jobs](https://github.com/h3nrzi/vue-jobs-vuejs) | Vue.js | Job listing application |
-| [Portfolio #1](https://github.com/h3nrzi/guess-my-number-dom-project) | Next.js | Personal portfolio website |
-| [Portfolio #2](https://github.com/h3nrzi) 🔒 | Next.js | Personal portfolio *(Private)* |
-| [CV Builder](https://github.com/h3nrzi) 🔒 | Next.js | CV builder app *(Private)* |
+| Project | Focus | Description |
+|---|---|---|
+| [AI Product Engineering Playbook](https://github.com/h3nrzi/ai-product-engineering-playbook) | Product Engineering / AI Workflow | A reusable workflow for product discovery, module-by-module engineering, and AI-assisted delivery |
+| [Service POC Portfolio](https://github.com/h3nrzi/service-poc-portfolio) | Product Discovery / Service Products | Central workspace for designing and documenting deliberately different service-product POCs |
+| [Nexa Commerce](https://github.com/h3nrzi/nexa-commerce) | Enterprise Commerce | Product and domain planning for an enterprise-grade commerce backend |
 
-## 🔧 Back-End Projects
+## 🧠 Backend & System Design
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [Natours](https://github.com/h3nrzi/natours-expressjs-tour-booking-api) | Node.js, Express, MongoDB | REST API for managing tours and bookings |
-| [Vidly](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api) | Node.js, Express, MongoDB | Movie rental service API |
-| [OTP Workflow](https://github.com/h3nrzi/otp-workflow-expressjs) | Node.js, Express, Twilio | OTP verification and authentication service |
-| [Shop Flow](https://github.com/h3nrzi/shop-flow-expressjs-shopping-api) | Node.js, Express, MongoDB | API for product management and checkout flow |
-| [Ticketing](https://github.com/h3nrzi/ticketing-expressjs-microservice-architecture) | Node.js, Express, NATS, Docker, Kubernetes | Distributed ticketing system built with microservices |
+| Project | Stack / Area | Description |
+|---|---|---|
+| [Rate Limiter Gateway](https://github.com/h3nrzi/rate-limiter-gateway) | NestJS, Redis, PostgreSQL, Docker, Kubernetes | API gateway and configurable rate-limiting system |
+| [Ticketing](https://github.com/h3nrzi/ticketing-expressjs-microservice-architecture) | Node.js, Express, NATS, Docker, Kubernetes | Distributed ticketing application built with a microservice architecture |
+| [Shop Flow](https://github.com/h3nrzi/shop-flow-expressjs-shopping-api) | Node.js, Express, MongoDB | Shopping API covering product and checkout workflows |
+| [Natours](https://github.com/h3nrzi/natours-expressjs-tour-booking-api) | Node.js, Express, MongoDB | REST API for tours, users, authentication, and bookings |
+| [Vidly](https://github.com/h3nrzi/vidly-expressjs-movie-rental-api) | Node.js, Express, MongoDB | Movie rental REST API |
+| [OTP Workflow](https://github.com/h3nrzi/otp-workflow-expressjs) | Node.js, Express, Twilio | OTP verification and authentication workflow |
+| [REST API in C](https://github.com/h3nrzi/rest-api-C) | C | Experiment building REST API concepts closer to the systems layer |
 
-## 🚀 Full-Stack Projects
+## 🧩 Full-Stack & Product Projects
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [MERN E-Commerce Template](https://github.com/h3nrzi/mern-e-commerce-fullstack-template) | MERN Stack | Base template for building e-commerce applications |
-| [Auth GraphQL](https://github.com/h3nrzi/auth-graphql-mern) | Node.js, MongoDB, GraphQL | User authentication with GraphQL |
-| [Lyrical GraphQL](https://github.com/h3nrzi/lyrical-graphql-mern) | Node.js, Apollo, React | Music lyric management with GraphQL |
+| Project | Stack / Area | Description |
+|---|---|---|
+| [Issue Tracker](https://github.com/h3nrzi/issue-tracker-nextjs) | Next.js, Prisma, PostgreSQL | Full-stack issue tracking application |
+| [CV Builder](https://github.com/h3nrzi/cv-builder-nextjs) | Next.js | Web application for creating structured CVs |
+| [Develops](https://github.com/h3nrzi/develops-nextjs) | Next.js | Modern Next.js application project |
+| [PageVerse](https://github.com/h3nrzi/PageVerse) | Web Application | Product-focused web application project |
+| [ProShop](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp) | MERN | E-commerce application with customer and admin workflows |
 | [Onwards Foodies](https://github.com/h3nrzi/onwards-foodies-nextjs) | Next.js, Prisma, PostgreSQL | Restaurant discovery platform |
-| [Next News](https://github.com/h3nrzi/next-news-nextjs) | Next.js | News aggregation and article reader |
-| [Issue Tracker](https://github.com/h3nrzi/issue-tracker-nextjs) | Next.js, Prisma, PostgreSQL | Full-stack issue tracking system |
-| [ProShop](https://github.com/h3nrzi/proshop-mern-e-commerce-webapp) | MERN Stack | Advanced e-commerce website with admin dashboard |
 
-## 📱 Mobile Apps
+## 🧪 Engineering Experiments
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [MovieFlix](https://github.com/h3nrzi/movie-flix-react-native) | React Native, Expo | Mobile app for discovering and browsing movies |
+| Project | Area | Description |
+|---|---|---|
+| [Task Terminal](https://github.com/h3nrzi/task-terminal) | Developer Tooling | Terminal-oriented task management experiment |
+| [Next.js 15 Migration Playground](https://github.com/h3nrzi/nextjs15-migration-playground) | Next.js | Playground for exploring migration and framework changes |
+| [Design System Setup](https://github.com/h3nrzi/Design-System-Setup) | Frontend Architecture | Design-system setup and reusable UI foundations |
+| [Taskflow GPT](https://github.com/h3nrzi/taskflow-gpt) | AI Experiment | Task-flow implementation experiment using GPT-assisted development |
+| [Taskflow Gemini](https://github.com/h3nrzi/taskflow-gemini) | AI Experiment | Parallel task-flow experiment using Gemini-assisted development |
+| [Schema Rish Engine](https://github.com/h3nrzi/schema-rish-engine) | Backend Experiment | Schema and rule-oriented backend experiment |
 
-## 🤖 Telegram Bots
+## 🎨 Earlier Front-End Work
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [Forex Money Management Bot](https://github.com/h3nrzi) 🔒 | Python (pyTelegramBotAPI) | Calculates and manages Forex risk management methods |
-| [EngliFix Telegram Bot](https://github.com/h3nrzi) 🔒 | Node.js, Telegraf.js | English learning assistant bot with ESL integration |
+- [Game Hub](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp) — React game discovery application
+- [Vue Jobs](https://github.com/h3nrzi/vue-jobs-vuejs) — Vue job listing application
+- [Moshify](https://github.com/h3nrzi/moshify-cloud-hosting-landing-page) — responsive cloud-hosting landing page
+- [Guess My Number](https://github.com/h3nrzi/guess-my-number-dom-project) — vanilla JavaScript DOM project
 
-## 📈 Forex Bots
+## 🧱 Templates & Reference Projects
 
-| Project | Stack | Description |
-|----------|--------|-------------|
-| [Forex Trader Python FX Bot](https://github.com/h3nrzi/forex-trader-python-fx-bot) 🔒 | Python, MetaTrader5 | Automated trading bot with money management strategies |
+- [Next.js Full-Stack Architecture Template](https://github.com/h3nrzi/next.js-fullstack-architecture-template)
+- [MERN E-Commerce Template](https://github.com/h3nrzi/mern-e-commerce-fullstack-template)
+- [Auth GraphQL](https://github.com/h3nrzi/auth-graphql-mern)
+- [Lyrical GraphQL](https://github.com/h3nrzi/lyrical-graphql-mern)
 
 ---
 
