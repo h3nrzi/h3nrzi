@@ -46,6 +46,27 @@ My recent work is centered around **Node.js, NestJS, Next.js, system design, bac
 | [Taskflow Gemini](https://github.com/h3nrzi/taskflow-gemini) | AI Experiment | Parallel task-flow experiment using Gemini-assisted development |
 | [Schema Rish Engine](https://github.com/h3nrzi/schema-rish-engine) | Backend Experiment | Schema and rule-oriented backend experiment |
 
+## 🔒 Private Projects
+
+Projects marked 🔒 have private source code; repository access is restricted to collaborators.
+
+| Project | Primary Language |
+|---|---|
+| 🔒 [the-gentleman](https://github.com/h3nrzi/the-gentleman) | JavaScript |
+| 🔒 [tele-bot](https://github.com/h3nrzi/tele-bot) | TypeScript |
+| 🔒 [the-wild-oasis](https://github.com/h3nrzi/the-wild-oasis) | JavaScript |
+| 🔒 [theme-test](https://github.com/h3nrzi/theme-test) | — |
+| 🔒 [Tarkhinehfigma](https://github.com/h3nrzi/Tarkhinehfigma) | TypeScript |
+| 🔒 [whatsapp-price-bot](https://github.com/h3nrzi/whatsapp-price-bot) | — |
+| 🔒 [boomshi-main](https://github.com/h3nrzi/boomshi-main) | Python |
+| 🔒 [movie-flix-react-native](https://github.com/h3nrzi/movie-flix-react-native) | TypeScript |
+| 🔒 [reservation-app](https://github.com/h3nrzi/reservation-app) | — |
+| 🔒 [forex-trader-python-fx-bot](https://github.com/h3nrzi/forex-trader-python-fx-bot) | Python |
+| 🔒 [forex-money-managment-tele-bot](https://github.com/h3nrzi/forex-money-managment-tele-bot) | Python |
+| 🔒 [portfolio2-nextjs](https://github.com/h3nrzi/portfolio2-nextjs) | TypeScript |
+| 🔒 [freelancer-portfolio-nextjs](https://github.com/h3nrzi/freelancer-portfolio-nextjs) | TypeScript |
+| 🔒 [EngliFix-tele-bot](https://github.com/h3nrzi/EngliFix-tele-bot) | TypeScript |
+
 ## 🎨 Earlier Front-End Work
 
 - [Game Hub](https://github.com/h3nrzi/game-hub-reactjs-discovery-game-webapp) — React game discovery application
